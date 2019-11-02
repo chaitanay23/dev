@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://chaitanay:chetu2323@devconnector-kauhs.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretToken",
+    "githubClientId": "97946f20f5a1cfc33643",
+    "githubSecret": "4d87a82b47bdb20c0fb813adb6ad0e44bd18ed1f"
+}
