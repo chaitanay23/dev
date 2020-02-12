@@ -233,7 +233,6 @@ Createprofile.propTypes = {
 const mapStateToProps = state => ({
   profile: state.profile
 });
-export default connect(
-  mapStateToProps,
-  { createProfile, getCurrentProfile }
-)(withRouter(Createprofile));
+export default connect(mapStateToProps, { createProfile, getCurrentProfile })(
+  withRouter(Createprofile)
+);
